@@ -1,0 +1,1 @@
+# Spreadtrum_SC7731_Kernel_Source_Code
